@@ -96,21 +96,11 @@ Here are some ideas to get you started:
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NithinU2802&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NithinU2802&show_icons=true&count_private=true&hide_border=true" align="center" />
+<br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinU2802&hide_border=true&layout=compact" align="left" />  
+</div>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinU2802&hide_border=true&layout=compact" align="left" />  
-</div>
 
 <br/>  
 
