@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=NithinU2802&&style=flat-square)  
   
 
@@ -131,3 +130,4 @@ Here are some ideas to get you started:
 
 
 <br />
+
