@@ -102,7 +102,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithinU2802")>
 <div align="center">
 
 <br/>  
