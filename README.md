@@ -98,8 +98,12 @@ Here are some ideas to get you started:
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=NithinU2802&show_icons=true&count_private=true&hide_border=true" align="center" />
 <br>
-</div>  
 
+</div>
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=vimalprogrammer")>
+<div align="center">
 
 <br/>  
 <!-- <div align="center" >
