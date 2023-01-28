@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   I am intensive Java programmer always ready to solve and waiting for task which improve my learnings. </div>  
   
 
-- 🔭Computer Science Engineering Student  
+- 🔭Computer Science and Engineering Student  
   
 
 - ⚡ Fun fact: Each and every line of code has an value when it is created instead using same technique....  
