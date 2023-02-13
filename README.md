@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 
 ### <div align="center">                           I'm Nithin form Trichy, Pursing 3rd Year Computer Science Engineering at K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
-  I am dedicated Java programmer always ready to solve and waiting for task which improve my learnings. </div>  
+  I am a dedicated Java programmer that is always ready to tackle problems and eager to take on new challenges. </div>  
   
 
 - 🔭Computer Science and Engineering Student  
