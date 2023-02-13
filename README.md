@@ -23,13 +23,13 @@ Here are some ideas to get you started:
   
 
 ### <div align="center">                           I'm Nithin form Trichy, Pursing 3rd Year Computer Science Engineering at K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
-  I am a dedicated Java programmer that is always ready to tackle problems and eager to take on new challenges. </div>  
+  I am a dedicated Java programmer who is always ready to tackle problems and eager to take on new challenges. </div>  
   
 
 - 🔭Computer Science and Engineering Student  
   
 
-- ⚡ Fun fact: Each and every line of code has an value when it is created instead using same technique....  
+- ⚡ Fun fact: Each and every line of code has a value when it is created instead using same technique....  
   
 
 <br/>  
