@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 ## Github State streak
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithinU2802")>
+ <img src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithinU2802&theme=dark)](https://github.com/NithinU2802/github-readme-streak-stats)">
 <div align="center">
 
 <br/>  
