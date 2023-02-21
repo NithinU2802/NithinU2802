@@ -96,10 +96,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats count  
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=NithinU2802" align="center" />
-<br>
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NithinU2802)](https://git.io/streak-stats)
 
 ## Github State streak
 <div align="center">
