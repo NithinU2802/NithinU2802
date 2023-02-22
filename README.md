@@ -102,7 +102,6 @@ Here are some ideas to get you started:
 </div> 
 <div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithinU2802")">
- <img src="https://activity-graph.herokuapp.com/graph?username=NithinU2802&theme=tokyonight">
 </div>
 
 
