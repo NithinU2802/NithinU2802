@@ -96,13 +96,7 @@ Here are some ideas to get you started:
 
 
 ## Github Stats count & streaks
-<div align="center" >
-<img width="43%" src="https://github-readme-stats.vercel.app/api?username=NithinU2802&theme=tokyonight&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinU2802&layout=compact&theme=tokyonight">
-</div> 
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithinU2802")">
-<!--  <img src="https://activity-graph.herokuapp.com/graph?username=NithinU2802&theme=tokyonight"> -->
-</div>
+
 
 <br/> 
 
