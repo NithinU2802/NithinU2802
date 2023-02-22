@@ -82,10 +82,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://leetcode.com/nithinu2810/"> <img src="https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
 <a href="https://www.codechef.com/users/nithin_2010"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
-</a>
-  
 <a href="https://stackoverflow.com/users/18278770/nithin-u-cse" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;">
-</a>
 <a href="https://www.linkedin.com/in/nithin-u-0309ab248/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/nithin_2802/" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
