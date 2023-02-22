@@ -78,8 +78,13 @@ Here are some ideas to get you started:
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/NithinU2802" target="_blank">
+<a href="https://leetcode.com/nithinu2810/"> <img src="https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
+<a href="https://www.codechef.com/users/nithin_2010"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink">
+ </a>
 <a href="https://stackoverflow.com/users/18278770/nithin-u-cse" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
