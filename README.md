@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=I+am+a+dedicated+Java+programmer+who+is+always+ready+to+;tackle+problems+and+eager+to+take+on+new+challenges." alt="Bio" /></a>
  </div>
 <!--   I am a dedicated Java programmer who is always ready to tackle problems and eager to take on new challenges. </div>   -->
-  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=-+🔭+Computer+Science+and+Engineering+ Student;tackle+problems+and+eager+to+take+on+new+challenges." alt="Bio" /></a>
+ </div>
 
 - 🔭Computer Science and Engineering Student  
   
