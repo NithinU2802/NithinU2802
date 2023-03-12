@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### <div align="center">                           I'm Nithin form Trichy, Pursing 3rd Year Computer Science Engineering at K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
  </div>
  <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=0000FF&center=true&multiline=true&repeat=false&width=1000&height=100&lines=I+am+a+dedicated+Java+programmer+who+is+always+ready+to+;tackle+problems+and+eager+to+take+on+new+challenges." alt="Bio" /></a>
+<h1><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=0000FF&center=true&multiline=true&repeat=false&width=1000&height=100&lines=I+am+a+dedicated+Java+programmer+who+is+always+ready+to+;tackle+problems+and+eager+to+take+on+new+challenges." alt="Bio" /></h1>
  </div>
   I am a dedicated Java programmer who is always ready to tackle problems and eager to take on new challenges. </div>  
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=-+🔭+Computer+Science+and+Engineering+ Student;-+⚡+Fun+ fact:+Each+and+every+line+of+code+has+a+value+when+it+is+created+instead+using+same+technique....  " alt="Bio" /></a> -->
