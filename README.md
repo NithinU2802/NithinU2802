@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### <div align="center">                           I'm Nithin form Trichy, Pursing 3rd Year Computer Science Engineering at K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
  </div>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Condensed&weight=500&pause=1000&color=F73578&center=true&multiline=true&repeat=false&width=500&height=100&lines=I+am+a+dedicated+Java+programmer+who+is+always+ready+to+;tackle+problems+and+eager+to+take+on+new+challenges." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Saira+Condensed&weight=500&pause=1000&color=F73578&center=true&multiline=true&repeat=false&width=500&height=100&lines=I+am+a+dedicated+Java+programmer+who+is+always+ready+to+tackle+problems+and+eager+to+take+on+new+challenges." alt="Typing SVG" /></a>
 <!--   I am a dedicated Java programmer who is always ready to tackle problems and eager to take on new challenges. </div>   -->
   
 
