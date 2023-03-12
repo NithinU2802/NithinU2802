@@ -99,7 +99,7 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithinU2802&layout=compact&theme=tokyonight"/>
 </div> 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithinU2802">
+ <img src="https://streak-stats.demolab.com/?user=NithinU2802&theme=dark">
 </div>
 
 
