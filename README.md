@@ -23,9 +23,7 @@ Here are some ideas to get you started:
   
 
 ### <div align="center">                           I'm Nithin form Trichy, Pursing 3rd Year Computer Science Engineering at K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
- </div>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+dedicated+Java+programmer+who+is+always+ready+to+tackle+problems+and+eager+to+take+on+new+challenges.;%F0%9F%94%ADComputer+Science+and+Engineering+Student+;%E2%9A%A1+Fun+fact%3A+Each+and+every+line+of+code+has+a+value+when+it+is+created+instead+using+same+technique....++" alt="Typing SVG" /></a>
-<!--   I am a dedicated Java programmer who is always ready to tackle problems and eager to take on new challenges. </div>  
+  I am a dedicated Java programmer who is always ready to tackle problems and eager to take on new challenges. </div>  
   
 
 - 🔭Computer Science and Engineering Student  
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Each and every line of code has a value when it is created instead using same technique....  
   
 
-<br/>   -->
+<br/>  
 
 
 ## My Skill Set  
