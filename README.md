@@ -21,13 +21,19 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" align="center" style="width: 100%" />
 </div>   -->
   
-  ![](https://github.com/NithinU2802/Programmer.gif)
+<!--   ![](https://github.com/NithinU2802/Programmer.gif) -->
+<!-- <p align="center">
+![Programmer](https://github.com/NithinU2802/NithinU2802/assets/106614289/64d7c682-37d0-49c0-bb63-c20bfc22f5aa)
+</p> -->
 
 
 ### <div align="center">                           I'm Nithin form Trichy, Pursing 3rd Year Computer Science Engineering at K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
   </div>
+  <p align="center">
+  <img src="https://github.com/NithinU2802/NithinU2802/assets/106614289/64d7c682-37d0-49c0-bb63-c20bfc22f5aa" alt="animated" />
+</p>
     <h4  align="center">
-         🕴I am a dedicated Java programmer 🛠 who is always ready to tackle problems and eager to take on new challenges🔍. </h4>  
+         🕴I am a Passionated programmer 🛠 who is always ready to tackle problems and eager to take on new challenges🔍. I am a person who learn for expand my knowledge,  currently learning technologies which are used for implementations of various projects. Now I am looking for a job role to lightern a spark on me towards the side of Software Engineering.</h4>  
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=-+🔭+Computer+Science+and+Engineering+ Student;-+⚡+Fun+ fact:+Each+and+every+line+of+code+has+a+value+when+it+is+created+instead+using+same+technique....  " alt="Bio" /></a> -->
 
 - 🔭Computer Science and Engineering Student  
