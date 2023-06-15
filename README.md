@@ -37,11 +37,12 @@ Here are some ideas to get you started:
      </p>  
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=-+🔭+Computer+Science+and+Engineering+ Student;-+⚡+Fun+ fact:+Each+and+every+line+of+code+has+a+value+when+it+is+created+instead+using+same+technique....  " alt="Bio" /></a> -->
 
-- 🌱Computer Science and Engineering Student.
-- ⚡ Fun fact: Each and every line of code has a value when it is created instead using same technique....💬
+- 🌱 Computer Science and Engineering Student.
+- ⚡ Fun fact: Each and every line of code has inherent value when it is created, rather than using the same technique repeatedly. The value lies not only in the functionality it provides but also in the insights and innovations it brings to the table.....💬
+- 😇 Packages provide a way to encapsulate and modularize code, making it easier to manage and maintain.
 
 <h4 align="center">
-💪Belief: "👨‍💻 Creating packages is good for an developer which need to be shared and will saves working time of programmers as it will grow technology towards peek faster⚡"
+💪Belief: "👨‍💻 Creating packages is indeed beneficial for developers as it promotes code reusability, collaboration, and efficiency⚡"
 </h4>
 
   
