@@ -27,18 +27,18 @@ Here are some ideas to get you started:
 </p> -->
 
 
-### <div align="center">                          I'm Nithin🤵 from Trichy, Pursing 3rd Year Computer Science Engineering at</br> K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
+### <div align="center">                          I'm Nithin🤵 From Trichy, Pursuing 3rd Year Computer Science Engineering at</br> K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
   </div>
   <p align="center">
   <img src="https://github.com/NithinU2802/NithinU2802/assets/106614289/64d7c682-37d0-49c0-bb63-c20bfc22f5aa" alt="animated" />
 </p>
     <p  align="center">
-  🕴I am a passionate and driven programmer 🛠  with a strong desire to solve problems and embrace new challenges🔍. I thrive on the excitement of learning and continuously expanding my skills in various technologies used for project implementations. I am currently seeking a job role that will ignite my passion for software engineering and provide me with opportunities to contribute my skills and creativity to meaningful projects. I am eager to embark⚡ on a new journey where I can make a positive impact and further advance my career in the field of software engineering ⛏.
+  🕴I am a passionate and driven programmer 🛠 with a strong desire to solve problems and embrace new challenges🔍. I thrive on the excitement of learning and continuously expanding my skills in various technologies used for project implementations. I am currently seeking a job role that will ignite my passion for software engineering and provide me with opportunities to contribute my skills and creativity to meaningful projects. I am eager to embark⚡ on a new journey where I can make a positive impact and further advance my career in the field of software engineering ⛏.
      </p>  
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=-+🔭+Computer+Science+and+Engineering+ Student;-+⚡+Fun+ fact:+Each+and+every+line+of+code+has+a+value+when+it+is+created+instead+using+same+technique....  " alt="Bio" /></a> -->
 
 - 🌱 Computer Science and Engineering Student.
-- ⚡ Fun fact: Each and every line of code has inherent value when it is created, rather than using the same technique repeatedly. The value lies not only in the functionality it provides but also in the insights and innovations it brings to the table.....💬
+- ⚡ Fun fact: Each and every line of code has an inherent value when it is created, rather than using the same technique repeatedly. The value lies not only in the functionality it provides but also in the insights and innovations it brings to the table.....💬
 - 😇 Packages provide a way to encapsulate and modularize code, making it easier to manage and maintain.
 
 <h4 align="center">
@@ -103,8 +103,6 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/nithin_2802/" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
 </div>  
-  
-
 <br/>  
 
 
