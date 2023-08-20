@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p> -->
 
 
-### <div align="center">                          I'm Nithin🤵 From Trichy, Pursuing 3rd Year Computer Science Engineering at</br> K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
+### <div align="center">                          I'm Nithin🤵 From Trichy, Pursuing Final Year Computer Science Engineering at</br> K Ramakrishnan College Of Technology, Samayapuram, Trichy👨‍💻.
   </div>
   <p align="center">
   <img src="https://github.com/NithinU2802/NithinU2802/assets/106614289/64d7c682-37d0-49c0-bb63-c20bfc22f5aa" alt="animated" />
