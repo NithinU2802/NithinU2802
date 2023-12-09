@@ -53,13 +53,13 @@ Here are some ideas to get you started:
 </details>
   
 
-<br/>  
+## 💼🛠️👨🏻‍💻 Skills and Development stats 
 
 
 <details>
 <summary><b>☜My Skill Set</b></summary>
 
-## My Skill Set  
+## My Skill and Tools Stats  
 <table align="center" ><tr><td valign="top" width="33%">
 
 
@@ -158,8 +158,3 @@ Here are some ideas to get you started:
  <img src="https://streak-stats.demolab.com/?user=NithinU2802&theme=dark">
 </div>
 </details>
-
-
-<br/> 
-
-<br />
