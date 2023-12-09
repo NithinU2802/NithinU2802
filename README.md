@@ -31,26 +31,33 @@ Here are some ideas to get you started:
   <p align="center">
   <img src="https://github.com/NithinU2802/NithinU2802/assets/106614289/95d8bcbb-021c-4d1f-a2e1-338db46487a7" alt="animated" />
 </p>
-    <p  align="center">
+
+<details>
+  <summary>☜My Objective</summary>
+  
+  ## Hello Expert👋
+  <p  align="center">
   🕴I am a passionate and driven programmer 🛠 with a strong desire to solve problems and embrace new challenges🔍. I thrive on the excitement of learning and continuously expanding my skills in various technologies used for project implementations. I am currently seeking a job role that will ignite my passion for software engineering and provide me with opportunities to contribute my skills and creativity to meaningful projects. I am eager to embark⚡ on a new journey where I can make a positive impact and further advance my career in the field of software engineering ⛏.
      </p>  
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=-+🔭+Computer+Science+and+Engineering+ Student;-+⚡+Fun+ fact:+Each+and+every+line+of+code+has+a+value+when+it+is+created+instead+using+same+technique....  " alt="Bio" /></a> -->
 
 - 🌱 Computer Science and Engineering Student.
 - ⚡ Fun fact: Each and every line of code has an inherent value when it is created, rather than using the same technique repeatedly. The value lies not only in the functionality it provides but also in the insights and innovations it brings to the table.....💬
-- 😇 Packages provide a way to encapsulate and modularize code, making it easier to manage and maintain.
+- 😇 Thought: Packages provide a way to encapsulate and modularize code, making it easier to manage and maintain.
+- 💬 Motto: Eat Code Sleep Repeat🔁.
 
 <h4 align="center">
 💪Belief: "👨‍💻 Creating packages is indeed beneficial for developers as it promotes code reusability, collaboration, and efficiency⚡"
 </h4>
 
+</details>
   
 
 <br/>  
 
 
 <details>
-<summary><b>My Skill Set</b></summary>
+<summary><b>☜My Skill Set</b></summary>
 
 ## My Skill Set  
 <table align="center" ><tr><td valign="top" width="33%">
@@ -95,7 +102,7 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary><b>Connect With Me</b></summary>
+<summary><b>☜Connect With Me</b></summary>
 
 ## Connect with me  
 <div align="center">
@@ -103,8 +110,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/nithinu2810/"> <img src="https://img.shields.io/badge/leetcode-999999?style=for-the-badge&logo=leetcode&logoColor=black">
-<!-- <a href="https://www.codechef.com/users/nithin_2010"> <img src="https://img.shields.io/badge/codechef-800080?style=for-the-badge&logo=codechef&logoColor=pink"> -->
-<!-- <a href="https://stackoverflow.com/users/18278770/nithin-u-cse" target="_blank"><img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;"> -->
+<a href="https://twitter.com/Nithin_2810"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://auth.geeksforgeeks.org/user/nithinu2810" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt=stackoverflow style="margin-bottom: 5px;">
 <a href="https://www.linkedin.com/in/nithin-u-0309ab248/" target="_blank"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/nithin_2802/" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -115,7 +122,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><b>Problem Solving Stats count & streak</b></summary>
+<summary><b>☜Problem Solving Stats count & streak</b></summary>
 
   ## Problem Solving Stats count & streak
 <div align="center" >
@@ -140,7 +147,7 @@ Here are some ideas to get you started:
 </div> -->
 
 <details>
-<summary><b>Github Stats count & streaks</b></summary>
+<summary><b>☜Github Stats count & streaks</b></summary>
 
   ## Github Stats count & streaks
 <div align="center" >
