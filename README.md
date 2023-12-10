@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 <details>
-  <summary>☜My Objective</summary>
+  <summary><b>☜About Me</b></summary>
   
   ## Hello Expert👋
   <p  align="center">
@@ -102,9 +102,9 @@ Here are some ideas to get you started:
 
 
 <details>
-<summary><b>☜Connect With Me</b></summary>
+<summary><b>☜Connect Me</b></summary>
 
-## Connect with me  
+## Connect me
 <div align="center">
   <a href="mailto:nithinu2810@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=github style="margin-bottom: 5px;" />
