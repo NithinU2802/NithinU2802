@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>☜About Me</b></summary>
   
-  ## Hello Expert👋
+  ## 👋Hello, I'm Nithin U!
   <p  align="center">
   🕴I am a passionate and driven programmer 🛠 with a strong desire to solve problems and embrace new challenges🔍. I thrive on the excitement of learning and continuously expanding my skills in various technologies used for project implementations. I am currently seeking a job role that will ignite my passion for software engineering and provide me with opportunities to contribute my skills and creativity to meaningful projects. I am eager to embark⚡ on a new journey where I can make a positive impact and further advance my career in the field of software engineering ⛏.
      </p>  
