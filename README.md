@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 </p> -->
 
 
-
+<a href="https://github.com/user-attachments/assets/af6cf6de-3b25-4d95-be29-509bb4da5f89">
   <p align="center">
   <img src="https://github.com/user-attachments/assets/af6cf6de-3b25-4d95-be29-509bb4da5f89" alt="Banner" />
-</p>
+  </p>
+</a>
 
 <details>
   <summary><b>☜About Me</b></summary>
