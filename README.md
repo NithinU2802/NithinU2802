@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
   <p align="center">
-  <img src="https://github.com/NithinU2802/NithinU2802/assets/106614289/95d8bcbb-021c-4d1f-a2e1-338db46487a7" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/af6cf6de-3b25-4d95-be29-509bb4da5f89" alt="Banner" />
 </p>
 
 <details>
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
      </p>  
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+ Mono&weight=500&pause=100&color=F73578&center=true&multiline=true&repeat=false&width=1000&height=100&lines=-+🔭+Computer+Science+and+Engineering+ Student;-+⚡+Fun+ fact:+Each+and+every+line+of+code+has+a+value+when+it+is+created+instead+using+same+technique....  " alt="Bio" /></a> -->
 
-- 🌱 Computer Science and Engineering Student.
+- 🌱 Computer Science and Engineering Graduate.
 - ⚡ Fun fact: Each and every line of code has an inherent value when it is created, rather than using the same technique repeatedly. The value lies not only in the functionality it provides but also in the insights and innovations it brings to the table.....💬
 - 😇 Thought: Packages provide a way to encapsulate and modularize code, making it easier to manage and maintain.
 - 💬 Motto: Eat Code Sleep Repeat🔁.
