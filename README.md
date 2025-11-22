@@ -158,4 +158,15 @@ Here are some ideas to get you started:
 <div align="center">
  <img src="https://streak-stats.demolab.com/?user=NithinU2802&theme=dark">
 </div>
+</br>
+<div align="center">
+<img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" height="120" />
+<img src="https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp" height="120" />
+<img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" height="120" />
+<img src="https://assets.holopin.io/hf2025levels/lvl3-astronaut.webp" height="120" />
+<img src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" height="120" />
+<img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" height="120" />
+<img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWczMXR3bnAwMDAwbGEwNGQxejRuN3B3IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" height="120" />
+</div>
 </details>
+
