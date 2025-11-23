@@ -13,8 +13,7 @@
 <summary><b>About Me – Click to uncover myself</b></summary>
 
 ### 👋 Hello, I'm <strong>Nithin U</strong>  
-I’m a passionate software engineer who loves solving problems, building scalable applications, and learning new technologies every day.  
-My journey revolves around writing clean, maintainable code and creating solutions that truly add value.
+I’m a passionate software engineer who loves solving problems, building scalable applications, and learning new technologies every day. My journey revolves around writing clean, maintainable code and creating solutions that truly add value.
 
 - 🎓 **Computer Science & Engineering Graduate**
 - 💡 **Passionate about full-stack applications, microservices, API design, automation, and backend engineering**
